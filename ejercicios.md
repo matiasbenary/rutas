@@ -12,7 +12,7 @@ Extras cada vez que se haga un peticion mostrar un loader que le indique al usua
 
 - /home -> Se muestra informacion basica (lorem )
 - /character -> Se muestra informacion de los personajes en card
-- /about Us -> Se muestra informacion extra
+- /about -> Se muestra informacion extra
 
 Aclaracion: Se debe poder navegar desde un navbar.En principio no deberia estar hecho con Chakra-ui.Una vez funcionando deberia integrarse React router dom con Chakra ui.
 
